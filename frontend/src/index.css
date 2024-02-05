@@ -23,6 +23,9 @@
 #headlessui-menu-item-40 {
 	display:none!important;
 }
+.shadow-sm {
+	display:none!important;
+}
 .dataframe tr > th:first-child {
 	@apply sticky left-0;
 }
